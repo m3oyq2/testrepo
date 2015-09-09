@@ -2,7 +2,8 @@
 * @mainpage Morse Test
 *
 * @section Intro
-* An implemenation of Morse Code on an AVR.
+* An implemenation of Morse Code on an AVR. 
+* A mundane update for testing github out
 *
 * @htmlinclude ./MorseTest.html
 *
