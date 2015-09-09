@@ -1,0 +1,5 @@
+AuthUserFile /var/www/site.com/htpasswd_avr_projects
+AuthType Basic
+AuthName "Morse Test"
+Require valid-user
+
