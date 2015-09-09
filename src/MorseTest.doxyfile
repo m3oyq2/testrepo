@@ -40,7 +40,7 @@ PROJECT_NUMBER         = 1
 
 OUTPUT_DIRECTORY       = ../doc
 
-# If the CREATE_SUBDIRS tag is set to YES, then doxygen will create
+# If the CREATE_SUBDIRS: tag is set to YES, then doxygen will create
 # 4096 sub-directories (in 2 levels) under the output directory of each output
 # format and will distribute the generated files over these directories.
 # Enabling this option can be useful when feeding doxygen a huge amount of
